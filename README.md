@@ -5,7 +5,7 @@
 参见[我的这篇文章](https://apqx.me/post/original/2021/12/12/关于-编程-的一件小事.html)。
 
 ```sh
-java -jar SinaBlogPickDownload-x.y.z.jar
+java -jar SinaBlogPicDownload-x.y.z.jar
 ```
 
 # v2.0.0
