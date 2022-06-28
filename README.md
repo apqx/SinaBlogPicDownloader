@@ -8,7 +8,7 @@
 java -jar SinaBlogPicDownload-x.y.z.jar
 ```
 
-# v2.0.0
+# v1.1.0
 
 运行环境`JRE 1.8`，内置下载器，不再依赖`Downie`，可跨平台运行。
 
